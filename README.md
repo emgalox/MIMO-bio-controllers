@@ -1,1 +1,1 @@
-# MIMO-bio-controllers
+# MIMO bio-controllers
